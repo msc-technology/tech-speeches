@@ -1,16 +1,5 @@
 # Available Speeches
 
-| Status | Title |  Code Sample Folder | Presentation Folder | Speakers | Events |
-| :---: |  ------------- | ------------- | ------------- | ------------- | ------------- |
-| 🟢 | [Actor Model: Concurrency made simple](#actor-model-concurrency-made-simple) | [Akka.NET Triathlon Race](https://github.com/fbasco81/triathlon-race-demo) | [Presentations](https://github.com/msc-technology/actor-model-concurrency) | [Cristiano Degiorgis](https://linkedin.com/in/cristianodegiorgis), [Francesco Basco](https://linkedin.com/in/francesco-basco-6a827387) | |
-| 🟡 | [Async and System Threading Channels](#async-and-system-threading-channels) | [Async](https://github.com/msc-technology/async-await), [Channels](https://github.com/msc-technology/system-threading-channels) |  [Presentations](#tbd) | [Giacomo Agostini](https://linkedin.com/in/giacomo-agostini-4976b717), [Federico Bellia](https://linkedin.com/in/federico-bellia-64a72799) | |
-| 🟢 | [Azure App Configuration and Azure Key Vault](#azure-app-configuration-and-azure-key-vault) | [app-configuration-key-vault](https://github.com/sabbadino/app-configuration-key-vault) | [Presentations](https://github.com/sabbadino/app-configuration-key-vault/tree/main/files) | [Enrico Sabbadin](https://linkedin.com/in/enrico-sabbadin-537150) | [Torino .NET Meetup (16/03/2022)](https://www.meetup.com/it-IT/Torino-NET-User-Group/events/284528269/) |
-| 🟡 | [How to write SOLID code](#how-to-write-solid-code) | [solid-playground](https://github.com/msc-technology/solid-playground) | [Presentations](https://github.com/msc-technology/solid-playground/tree/main/Presentations) | [Luca Legora](https://linkedin.com/in/lucalegora), [Giuseppe Velocci](https://linkedin.com/in/giuseppe-velocci-92a69969) | |
-| 🟡 | [Pub/Sub and Transaction outbox pattern](#pubsub-and-transaction-outbox-pattern) | [transaction-outbox-pattern](https://github.com/msc-technology/transaction-outbox-pattern) | [Presentations](https://github.com/msc-technology/transaction-outbox-pattern) | [Andrea Dutto](https://linkedin.com/in/andreaduttoita), [Vito Poeta](https://linkedin.com/in/vitopoeta) | |
-| 🟢 | [Twelve-Factor App](#twelve-factor-app) | N/A | [Presentations](https://github.com/msc-technology/12-factor-app) | [Cristiano Degiorgis](https://linkedin.com/in/cristianodegiorgis) | |
-
-Legenda: 🔴 (Not Started), 🟡 (In Progress), 🟢 (Available), 🔵 (Suggested)
-
 ## Actor Model: Concurrency made simple
 
 How to write highly concurrent, reliable and robust application w/o warring about multithreading complexity and  shared memory access. Actor model patterns become very popular these days with the diffusion of distributed systems that are the foundation of cloud computing.
