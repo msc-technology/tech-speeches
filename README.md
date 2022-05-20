@@ -15,7 +15,7 @@ This repository aims to be a single and central place to store tech speeches tha
 
 Legenda: 🔴 (Not Started), 🟡 (In Progress), 🟢 (Available), 🔵 (Suggested)
 
-## Collaboration
+## Contributing
 
 This repo is intended to store and provide a way to collaborate on:
 
@@ -24,4 +24,4 @@ This repo is intended to store and provide a way to collaborate on:
 - Summary and Intro to speeches
 - Point of contacts
 
-Please find [here](./collaboration.md) the guidelines to contribute to this repository.
+See [Contributing](./CONTRIBUTING.md) for information, guidelines, and making pull requests to contribute to tech speeches' repositories.
