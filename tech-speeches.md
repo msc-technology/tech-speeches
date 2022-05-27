@@ -50,10 +50,10 @@ The way to design and write understandable, flexible, and maintainable code is r
 - The SOLID acronym
 - Live and Interactive coding session to write SOLID code
 
-## Pub/Sub and Transaction outbox pattern
+## Pub/Sub and Transactional outbox pattern
 
 - Intro to pattern Pub/Sub
-- Theory of Transaction outbox pattern
+- Theory of Transactional outbox pattern
 - Demo
 
 ## Twelve-Factor App
