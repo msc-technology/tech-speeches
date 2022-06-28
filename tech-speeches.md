@@ -5,6 +5,14 @@
 How to write highly concurrent, reliable and robust application w/o warring about multithreading complexity and  shared memory access. Actor model patterns become very popular these days with the diffusion of distributed systems that are the foundation of cloud computing.
 The presentation will first introduce you to the pattern itself and then will share a way to implement it using one of the most popular framework on the market, akka(.net) through a production-ready use case and a demo app explaining the main capabilities of the framework that simplify a lot the pattern implementation.
 
+## Agile and Lean organizations: progress not perfection, the only way to build the right product
+
+Avoid pursuing perfection by removing waste and focusing on what users really want. How to design, create, evolve, and distribute the right product for your audience thanks to Agile methodologies and data-driven approach.
+
+- Differences between good, right and perfect software
+- Dealing with turbulent and fast-changing environments without affecting the quality
+- Data-driven development and observability
+
 ## Async and System Threading Channels
 
 - Intro to single threading, multithreading, multitasking
