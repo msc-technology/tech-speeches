@@ -47,9 +47,9 @@ To provide them, please adhere to the following workflow:
 
 To guarantee standardization and consistency among all the repositories under the [MSC Technology](https://github.com/msc-technology) Github organization, please kindly adhere to the following format for the README file:
 
-- Title: the title of the repository
-- [Optional] Intro: a short description of the aim and content of the repository
-- Requirements: the mandatory dependencies to successfully run the code samples
-- How to run: the steps needed to successfully run the code sample
-- [Optional] Structure: the structure of the available projects, with the corresponding content and type, part of the repository/solution
-- Contributing: A deep-link to this centralized guide on how to contribute to any repository under the MSC Technology Github Organization
+- __Title__: the title of the repository
+- __Intro__ \[_Optional_\]: a short description of the aim and content of the repository
+- __Requirements__: the mandatory dependencies to successfully run the code samples
+- __How to run__: the steps needed to successfully run the code sample
+- __Structure__ \[_Optional_\]: the structure of the available projects, with the corresponding content and type, part of the repository/solution
+- __Contributing__: A deep-link to this centralized guide on how to contribute to any repository under the MSC Technology Github Organization
