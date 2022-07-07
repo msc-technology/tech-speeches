@@ -2,7 +2,7 @@
 
 This repository aims to be a single and central place to store tech speeches that we will be able to deliver as MSC Technology.
 
-# Available Speeches
+## Available Speeches
 
 | Status | Title |  Code Sample Folder | Presentation Folder | Speakers | Events |
 | :---: |  ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -25,4 +25,4 @@ This repo is intended to store and provide a way to collaborate on:
 - Summary and Intro to speeches
 - Point of contacts
 
-See [Contributing](./CONTRIBUTING.md) for information, guidelines, and making pull requests to contribute to tech speeches' repositories.
+See [Contributing](./CONTRIBUTING.md) for information, guidelines, and how to contribute to tech speeches and any repository under the [MSC Technology](https://github.com/msc-technology) Github organization.
