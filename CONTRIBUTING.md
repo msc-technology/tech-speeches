@@ -29,7 +29,7 @@ If you want to suggest a new speech, please adhere to the following workflow:
   - Status 🔵
   - Title
   - Speakers
-- [Optional] Provide Code Samples and Presentations links, see [below](./#code-samples-and-presentations) for more details
+- [Optional] Provide Code Samples and Presentations links, see [below](./CONTRIBUTING.md#code-samples-and-presentations) for more details
 - Open a Pull Request on the Tech Speeches repository with _main_ as the target branch
 
 ### Code Samples and Presentations
