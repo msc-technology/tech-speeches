@@ -25,4 +25,4 @@ This repo is intended to store and provide a way to collaborate on:
 - Summary and Intro to speeches
 - Point of contacts
 
-See [Contributing](./CONTRIBUTING.md) for information, guidelines, and how to contribute to tech speeches and any repository under the [MSC Technology](https://github.com/msc-technology) Github organization.
+See [Contributing](https://github.com/msc-technology/.github/blob/main/CONTRIBUTING.md) for information, guidelines, and how to contribute to tech speeches and any repository under the [MSC Technology](https://github.com/msc-technology) Github organization.
